@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./carolialinnequi00schrgoog_0225.png"; bbox 0 0 965 1323; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 242 68 810 1215">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 242 68 810 1215">
+     <span class='ocr_line' id='line_1_1' title="bbox 242 68 810 1215; baseline 0 -1048"><span class='ocrx_word' id='word_1_1' title='bbox 242 68 810 1215; x_wconf 95' lang='lat' dir='ltr'><strong>    </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 253 72 768 149">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 253 72 768 149">
+     <span class='ocr_line' id='line_1_2' title="bbox 646 72 768 93; baseline 0 -12"><span class='ocrx_word' id='word_1_2' title='bbox 646 72 768 93; x_wconf 42' lang='lat' dir='ltr'><strong>«W</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 253 110 739 149; baseline 0.006 -8"><span class='ocrx_word' id='word_1_3' title='bbox 253 121 294 146; x_wconf 51' lang='lat' dir='ltr'><strong>nc</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 309 113 519 143; x_wconf 64' lang='lat' dir='ltr'><strong>maumam</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 523 110 739 149; x_wconf 56' lang='lat' dir='ltr'><strong>‚mmm</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
